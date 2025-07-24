@@ -6,3 +6,6 @@ dist/
 .vscode/
 .idea/
 lessons/
+media/
+manimlib.egg-info/
+

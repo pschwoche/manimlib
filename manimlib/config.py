@@ -1,0 +1,2 @@
+MAIN_COLOR = "#F4D03F"
+FONT = "CMU Serif"
