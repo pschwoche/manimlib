@@ -1,0 +1,12 @@
+[project]
+name = "manimlib"
+version = "0.1.0"
+description = "Meine Manim Library"
+authors = [
+  { name="Patrick Schwoche", email="p.schwoche@gmx.de" }
+]
+dependencies = ["manim"]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
